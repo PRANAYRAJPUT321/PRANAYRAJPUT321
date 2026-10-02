@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pranay+Dadghaye+(Rajput);PGDM+Finance+%E2%80%A2+Full+Stack+Developer;Where+Finance+meets+Technology;Building+AI-powered+FinTech+tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pranay+Dadghaye+(Rajput);PGDM+Finance+%E2%80%A2+2nd+Year;BCA+Gold+Medalist+%F0%9F%A5%87;Where+Finance+meets+Technology;Building+AI-powered+FinTech+tools" alt="Typing SVG" />
 
-**PGDM (Finance) · Full Stack Developer · FinTech Builder · Nagpur, India**
+**PGDM Finance (2nd Year) · BCA Gold Medalist · Full Stack Developer · FinTech Builder · Nagpur, India**
 
 [![Profile views](https://komarev.com/ghpvc/?username=PRANAYRAJPUT321&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PRANAYRAJPUT321)
 [![Open to work](https://img.shields.io/badge/Open%20to-opportunities-2ea44f?style=flat)](https://github.com/PRANAYRAJPUT321)
@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a **PGDM Finance** student with a background in **Computer Applications (BCA)** and hands-on full stack development experience. I bring both worlds together — I understand markets, valuation and financial analysis, and I can build the software that puts those ideas to work.
+I'm in the **2nd year of my PGDM Finance journey** a **BCA Gold Medalist**, and a full stack developer. I bring both worlds together — I understand markets, valuation and financial analysis, and I can build the software that puts those ideas to work.
 
-- 🎓 **PGDM — Finance** (pursuing)
-- 🎓 **BCA** — G H Raisoni University, Amravati
+- 🎓 **PGDM — Finance** · currently in 2nd year
+- 🥇 **BCA — Gold Medalist** · G H Raisoni University, Amravati
 - 📊 Building **[Event-Driven Stock AI](https://github.com/PRANAYRAJPUT321/event-driven-stock-ai)** — my capstone project: an AI platform that turns financial news and economic events into explainable stock insights for the Indian equity market
 - 🧪 Created **[Excel Lab](https://excel-lab-by-pranay.vercel.app)** — a free, interactive app that teaches Excel for finance and audit through 262 self-marking practice tasks
 - 💡 Interests: **equity research, financial modelling, FinTech, and AI in finance**
