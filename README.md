@@ -68,7 +68,7 @@ const pranay = {
 <td width="50%" valign="top">
 
 ### 📊 [Event-Driven Stock AI](https://github.com/PRANAYRAJPUT321/event-driven-stock-ai)
-*Capstone project*
+*Academic project · AI in Finance (with Pranil)*
 
 > *"Given a financial event — which Indian stocks are affected, how strong is the evidence, and should I invest?"*
 
