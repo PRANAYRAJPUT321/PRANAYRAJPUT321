@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm in the **2nd year of my PGDM Finance journey** a **BCA Gold Medalist**, and a full stack developer. I bring both worlds together — I understand markets, valuation and financial analysis, and I can build the software that puts those ideas to work.
+I'm a **BCA Gold Medalist** now in the **2nd year of my PGDM Finance journey**, and a full stack developer. I bring both worlds together — I understand markets, valuation and financial analysis, and I can build the software that puts those ideas to work.
 
 - 🎓 **PGDM — Finance** · currently in 2nd year
 - 🥇 **BCA — Gold Medalist** · G H Raisoni University, Amravati
