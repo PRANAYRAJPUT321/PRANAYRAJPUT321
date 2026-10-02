@@ -20,10 +20,6 @@
 
 ## 🧑‍💼 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 I'm a **BCA Gold Medalist 🥇** now in the **2nd year of my PGDM Finance journey** at **Imperial School of Banking and Management Studies** — and a full stack developer who loves building things.
 
 Most people pick finance *or* tech. I do both: I read balance sheets and market news, and I build the software that turns them into decisions. 📈💻
@@ -35,37 +31,21 @@ Most people pick finance *or* tech. I do both: I read balance sheets and market 
 - 💬 Ask me about **Excel, markets, or Next.js**
 - ⚡ Fun fact: *there is no fun in life without coding*
 
-</td>
-<td width="45%" valign="top">
-
 ```js
 const pranay = {
-  education: {
-    pgdm: "Finance · 2nd Year",
-    at:   "Imperial School of Banking & Mgmt",
-    bca:  "Gold Medalist 🥇 · G H Raisoni Univ.",
-  },
-  focus:     ["Equity Research", "FinTech", "AI"],
-  building:  "Event-Driven Stock AI",
-  shipped:   "Excel Lab",
-  stack:     ["Next.js", "TypeScript", "Python"],
-  basedIn:   "Nagpur, India 🇮🇳",
-  motto:     "Never let the fear of striking out " +
-             "keep you from playing the game.",
+  pgdm:   "Finance · 2nd Year",
+  at:     "Imperial School of Banking",
+  bca:    "Gold Medalist 🥇",
+  loves:  ["Markets", "Code", "AI"],
+  built:  ["Stock AI", "Excel Lab"],
+  stack:  ["Next.js", "TypeScript"],
+  from:   "Nagpur, India 🇮🇳",
 };
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 📊 [Event-Driven Stock AI](https://github.com/PRANAYRAJPUT321/event-driven-stock-ai)
 *Academic project · AI in Finance (with Pranil)*
@@ -82,9 +62,6 @@ const pranay = {
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
 ### 🧪 [Excel Lab](https://github.com/PRANAYRAJPUT321/excel-lab) · [Try it live ↗](https://excel-lab-by-pranay.vercel.app)
 *Learn Excel by actually doing it*
 
@@ -100,21 +77,15 @@ const pranay = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 <details>
 <summary><b>🗂️ More projects</b></summary>
 <br />
 
-| Project | What it is | Stack |
-|---|---|---|
-| 💰 [Budget Gadget](https://github.com/PRANAYRAJPUT321/Budget_Gadget) | A React single-page web application | React, CSS |
-| 🧘 [MEDITON](https://github.com/PRANAYRAJPUT321/MEDITON) | A calm, clean meditation blog | HTML, CSS |
-| 🎡 [Amusement Park](https://github.com/PRANAYRAJPUT321/Amusement-park) | An amusement park website | HTML, CSS |
-| 🔐 [Animated Login Form](https://github.com/PRANAYRAJPUT321/Animated-Login-Form) | A login form with CSS animations | HTML, CSS |
-| ☕ [Java Programming](https://github.com/PRANAYRAJPUT321/JAVA-PROGRAMMING) · 🐍 [Python Programming](https://github.com/PRANAYRAJPUT321/PYTHON-PROGRAMMING) | Practice programs and problem solving | Java, Python |
+- 💰 **[Budget Gadget](https://github.com/PRANAYRAJPUT321/Budget_Gadget)** — a React single-page web application
+- 🧘 **[MEDITON](https://github.com/PRANAYRAJPUT321/MEDITON)** — a calm, clean meditation blog
+- 🎡 **[Amusement Park](https://github.com/PRANAYRAJPUT321/Amusement-park)** — an amusement park website
+- 🔐 **[Animated Login Form](https://github.com/PRANAYRAJPUT321/Animated-Login-Form)** — a login form with CSS animations
+- ☕ **[Java Programming](https://github.com/PRANAYRAJPUT321/JAVA-PROGRAMMING)** · 🐍 **[Python Programming](https://github.com/PRANAYRAJPUT321/PYTHON-PROGRAMMING)** — practice programs and problem solving
 
 </details>
 
@@ -126,7 +97,7 @@ const pranay = {
 
 **💻 Development**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,html,css,react,nextjs,tailwind&perline=11" alt="Development skills" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,html,css,react,nextjs,tailwind&perline=6" alt="Development skills" />
 
 <br /><br />
 
@@ -151,8 +122,8 @@ const pranay = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PRANAYRAJPUT321&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAYRAJPUT321&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=PRANAYRAJPUT321&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAYRAJPUT321&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=PRANAYRAJPUT321&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
