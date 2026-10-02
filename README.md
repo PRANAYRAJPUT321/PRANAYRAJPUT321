@@ -6,6 +6,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=PRANAYRAJPUT321&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PRANAYRAJPUT321)
 [![Open to work](https://img.shields.io/badge/Open%20to-opportunities-2ea44f?style=flat)](https://github.com/PRANAYRAJPUT321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay_Dadghaye-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-dadghaye-ba89a7278)
 [![Instagram](https://img.shields.io/badge/Instagram-pranayrajput007-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pranayrajput007)
 
 </div>
@@ -94,6 +95,7 @@ I'm a **BCA Gold Medalist** now in the **2nd year of my PGDM Finance journey**, 
 
 ### 🤝 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay_Dadghaye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-dadghaye-ba89a7278)
 [![GitHub](https://img.shields.io/badge/GitHub-PRANAYRAJPUT321-181717?style=for-the-badge&logo=github)](https://github.com/PRANAYRAJPUT321)
 [![Instagram](https://img.shields.io/badge/Instagram-pranayrajput007-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranayrajput007)
 
