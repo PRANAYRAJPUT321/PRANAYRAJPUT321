@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pranay+Dadghaye+(Rajput);Full+Stack+Web+Developer;Building+AI-powered+web+apps;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pranay+Dadghaye+(Rajput);PGDM+Finance+%E2%80%A2+Full+Stack+Developer;Where+Finance+meets+Technology;Building+AI-powered+FinTech+tools" alt="Typing SVG" />
 
-**Full Stack Web Developer · Programmer · Nagpur, India**
+**PGDM (Finance) · Full Stack Developer · FinTech Builder · Nagpur, India**
 
 [![Profile views](https://komarev.com/ghpvc/?username=PRANAYRAJPUT321&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PRANAYRAJPUT321)
 [![Open to work](https://img.shields.io/badge/Open%20to-opportunities-2ea44f?style=flat)](https://github.com/PRANAYRAJPUT321)
@@ -14,14 +14,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a full stack web developer from Nagpur who enjoys turning ideas into real, working products — from tiny single-file tools to full AI-backed platforms.
+I'm a **PGDM Finance** student with a background in **Computer Applications (BCA)** and hands-on full stack development experience. I bring both worlds together — I understand markets, valuation and financial analysis, and I can build the software that puts those ideas to work.
 
+- 🎓 **PGDM — Finance** (pursuing)
 - 🎓 **BCA** — G H Raisoni University, Amravati
-- 🔭 Currently building **[Event-Driven Stock AI](https://github.com/PRANAYRAJPUT321/event-driven-stock-ai)** — an AI platform that turns financial news into explainable stock insights for the Indian market
-- 🧪 Recently shipped **[Excel Lab](https://excel-lab-by-pranay.vercel.app)** — an interactive, zero-dependency app for learning Excel by doing
-- 🌱 Exploring **Next.js, Supabase, and LLM integrations** in production apps
-- 🤝 Open to **internships, freelance work, and collaborations**
-- ⚡ Fun fact: there is no fun in life without coding
+- 📊 Building **[Event-Driven Stock AI](https://github.com/PRANAYRAJPUT321/event-driven-stock-ai)** — my capstone project: an AI platform that turns financial news and economic events into explainable stock insights for the Indian equity market
+- 🧪 Created **[Excel Lab](https://excel-lab-by-pranay.vercel.app)** — a free, interactive app that teaches Excel for finance and audit through 262 self-marking practice tasks
+- 💡 Interests: **equity research, financial modelling, FinTech, and AI in finance**
+- 🤝 Open to **finance and FinTech internships, analyst roles, and collaborations**
 
 ---
 
@@ -29,8 +29,8 @@ I'm a full stack web developer from Nagpur who enjoys turning ideas into real, w
 
 | Project | Description | Stack |
 |---|---|---|
-| 📊 **[Event-Driven Stock AI](https://github.com/PRANAYRAJPUT321/event-driven-stock-ai)** | AI-powered market intelligence for Indian equities. Classifies financial events (RBI policy, earnings, geopolitical shocks), maps their impact through sectors to stocks, and produces a 0–100 opportunity score with bull/bear cases. | Next.js 14, TypeScript, Tailwind, Supabase, Claude API, Vercel |
-| 🧪 **[Excel Lab](https://github.com/PRANAYRAJPUT321/excel-lab)** · [Live ↗](https://excel-lab-by-pranay.vercel.app) | Learn Excel by actually typing formulas: a working in-browser spreadsheet with 115 functions, plain-English formula explanations, and 8 practice workbooks with 262 self-marking tasks. One HTML file, no dependencies. | HTML, CSS, JavaScript |
+| 📊 **[Event-Driven Stock AI](https://github.com/PRANAYRAJPUT321/event-driven-stock-ai)** | Capstone project. AI-powered market intelligence for Indian equities. Classifies financial events (RBI policy, earnings, geopolitical shocks), maps their impact through sectors to stocks, and produces a 0–100 opportunity score with bull/bear cases. | Next.js 14, TypeScript, Tailwind, Supabase, Claude API, Vercel |
+| 🧪 **[Excel Lab](https://github.com/PRANAYRAJPUT321/excel-lab)** · [Live ↗](https://excel-lab-by-pranay.vercel.app) | Learn Excel for finance by actually typing formulas: a working in-browser spreadsheet with 115 functions, plain-English formula explanations, and 8 practice workbooks with 262 self-marking tasks. One HTML file, no dependencies. | HTML, CSS, JavaScript |
 | 💰 **[Budget Gadget](https://github.com/PRANAYRAJPUT321/Budget_Gadget)** | A React single-page web application, my first project built with a modern component framework. | React, JavaScript, CSS |
 | 🧘 **[MEDITON](https://github.com/PRANAYRAJPUT321/MEDITON)** | A meditation blog website with a clean, calming design. | HTML, CSS |
 
@@ -64,12 +64,14 @@ I'm a full stack web developer from Nagpur who enjoys turning ideas into real, w
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Tools**
+**Finance & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-0E75B6?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Equity Research](https://img.shields.io/badge/Equity_Research-2EA44F?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ---
 
