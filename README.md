@@ -7,6 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-dadghaye-ba89a7278)
 [![Excel Lab](https://img.shields.io/badge/Live_App-Excel_Lab-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel-lab-by-pranay.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaydadghaye@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranayrajput007)
 
 ![Profile views](https://komarev.com/ghpvc/?username=PRANAYRAJPUT321&label=Profile%20views&color=0e75b6&style=flat-square)
@@ -23,7 +24,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **BCA Gold Medalist 🥇** now in the **2nd year of my PGDM Finance journey** — and a full stack developer who loves building things.
+I'm a **BCA Gold Medalist 🥇** now in the **2nd year of my PGDM Finance journey** at **Imperial School of Banking and Management Studies** — and a full stack developer who loves building things.
 
 Most people pick finance *or* tech. I do both: I read balance sheets and market news, and I build the software that turns them into decisions. 📈💻
 
@@ -41,6 +42,7 @@ Most people pick finance *or* tech. I do both: I read balance sheets and market 
 const pranay = {
   education: {
     pgdm: "Finance · 2nd Year",
+    at:   "Imperial School of Banking & Mgmt",
     bca:  "Gold Medalist 🥇 · G H Raisoni Univ.",
   },
   focus:     ["Equity Research", "FinTech", "AI"],
@@ -179,6 +181,7 @@ If you're hiring for finance or FinTech roles — or have an idea worth building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay_Dadghaye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-dadghaye-ba89a7278)
 [![GitHub](https://img.shields.io/badge/GitHub-PRANAYRAJPUT321-181717?style=for-the-badge&logo=github)](https://github.com/PRANAYRAJPUT321)
+[![Email](https://img.shields.io/badge/Email-pranaydadghaye%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaydadghaye@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pranayrajput007-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranayrajput007)
 
 <sub>⭐ If you like my work, star a repo — it keeps me building!</sub>
